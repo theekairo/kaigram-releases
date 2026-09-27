@@ -1,7 +1,7 @@
 {
-  "versionCode": 71079,
-  "versionName": "12.10.5-kai.2",
-  "apkUrl": "https://github.com/theekairo/kaigram-releases/releases/download/v12.10.5-kai.2/KaiGram.apk",
-  "sha256": "cde44707740c00cdbeae22a090fae784678232ad58e2d79507285978cde27c9b",
-  "notes": "Проверка обновлений теперь работает начиная с Android 5. Статус на экране настроек мода лучше читается в тёмной теме."
+  "versionCode": 71089,
+  "versionName": "12.10.5-kai.3",
+  "apkUrl": "https://github.com/theekairo/kaigram-releases/releases/download/v12.10.5-kai.3/KaiGram.apk",
+  "sha256": "867dff1987065aa3e40a7fa1a36272a4336c5b8edcaf012473288c74cc1c02a1",
+  "notes": "Исправлен заголовок чатов: KaiGram вместо Telegram."
 }
