@@ -1,7 +1,7 @@
 {
-  "versionCode": 71089,
-  "versionName": "12.10.5-kai.3",
-  "apkUrl": "https://github.com/theekairo/kaigram-releases/releases/download/v12.10.5-kai.3/KaiGram.apk",
-  "sha256": "867dff1987065aa3e40a7fa1a36272a4336c5b8edcaf012473288c74cc1c02a1",
-  "notes": "Исправлен заголовок чатов: KaiGram вместо Telegram."
+  "versionCode": 71099,
+  "versionName": "12.10.5-kai.4",
+  "apkUrl": "https://github.com/theekairo/kaigram-releases/releases/download/v12.10.5-kai.4/KaiGram.apk",
+  "sha256": "112044b169734aaa30a8ef79812432fb574c6ff50a3bfe5f33b92ca33e093f2e",
+  "notes": "Исправлен вылет при первом запуске и заголовок чатов KaiGram; тестовые элементы скрыты."
 }
