@@ -1,0 +1,7 @@
+{
+  "versionCode": 71069,
+  "versionName": "12.10.5-kai.1",
+  "apkUrl": "https://github.com/theekairo/kaigram-releases/releases/download/v12.10.5-kai.1/KaiGram.apk",
+  "sha256": "7300b693d688134be5cebb9de5cdeb1d84436dc33fa3d330b728703e399dfa0e",
+  "notes": "Первый релиз KaiGram: настройки мода, проверка и установка обновлений, исправления тёмной темы и иконки."
+}
